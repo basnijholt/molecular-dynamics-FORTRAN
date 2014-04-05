@@ -1,0 +1,59 @@
+\begin{thebibliography}{10}
+
+\bibitem{virial}
+Jean-Pierre Hansen and I.~R. McDonald.
+\newblock {\em Theory of Simple Liquids, Third Edition}.
+\newblock Academic Press, 3 edition, April 2006.
+
+\bibitem{VanItterbeek1963742}
+A.~Van Itterbeek, O.~Verbeke, and K.~Staes.
+\newblock Measurements on the equation of state of liquid argon and methane up
+  to 300 kg cm$^−2$ at low temperatures.
+\newblock {\em Physica}, 29(6):742 -- 754, 1963.
+
+\bibitem{Lebowitz1967250}
+J.L. Lebowitz, J.K. Percus, and L.~Verlet.
+\newblock Ensemble dependence of fluctuations with application to machine
+  computations.
+\newblock {\em Physical Review}, 153(1):250--254, 1967.
+\newblock cited By (since 1996)144.
+
+\bibitem{Levelt1960361}
+J.M.H. Levelt.
+\newblock The reduced equation of state, internal energy and entropy of argon
+  and xenon.
+\newblock {\em Physica}, 26(6):361 -- 377, 1960.
+
+\bibitem{Michels1949627}
+A.~Michels, Hub Wijker, and Hk~Wijker.
+\newblock Isotherms of argon between 0°c and 150°c and pressures up to 2900
+  atmospheres.
+\newblock {\em Physica}, 15(7):627 -- 633, 1949.
+
+\bibitem{PhysRev.136.A405}
+A.~Rahman.
+\newblock Correlations in the motion of atoms in liquid argon.
+\newblock {\em Phys. Rev.}, 136:A405--A411, Oct 1964.
+
+\bibitem{blockavg}
+D.~C. Rapaport.
+\newblock {\em The Art of Molecular Dynamics Simulation}.
+\newblock Cambridge University Press., 2004.
+
+\bibitem{thijssen2007computational}
+J.M. Thijssen.
+\newblock {\em Computational Physics}.
+\newblock Cambridge University Press, 2007.
+
+\bibitem{PhysRev.159.98}
+Loup Verlet.
+\newblock Computer "experiments" on classical fluids. i. thermodynamical
+  properties of lennard-jones molecules.
+\newblock {\em Phys. Rev.}, 159:98--103, Jul 1967.
+
+\bibitem{widom}
+B.~Widom.
+\newblock Some topics in the theory of fluids.
+\newblock {\em Journal of Chemical Physics}, 39:2808--2812, December 1963.
+
+\end{thebibliography}

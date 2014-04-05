@@ -1,0 +1,148 @@
+@article{PhysRev.159.98,
+  title = {Computer "Experiments" on Classical Fluids. I. Thermodynamical Properties of Lennard-Jones Molecules},
+  author = {Verlet, Loup},
+  journal = {Phys. Rev.},
+  volume = {159},
+  issue = {1},
+  pages = {98--103},
+  numpages = {0},
+  year = {1967},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.159.98},
+  url = {http://link.aps.org/doi/10.1103/PhysRev.159.98}
+}
+
+@article{Levelt1960361,
+  title = "The reduced equation of state, internal energy and entropy of argon and xenon ",
+  journal = "Physica ",
+  volume = "26",
+  number = "6",
+  pages = "361 - 377",
+  year = "1960",
+  note = "",
+  issn = "0031-8914",
+  doi = "http://dx.doi.org/10.1016/0031-8914(60)90025-2",
+  url = "http://www.sciencedirect.com/science/article/pii/0031891460900252",
+  author = "J.M.H. Levelt"
+}
+
+@article{VanItterbeek1963742,
+  title = "Measurements on the equation of state of liquid argon and methane up to 300 kg cm$^−2$ at low temperatures ",
+  journal = "Physica ",
+  volume = "29",
+  number = "6",
+  pages = "742 - 754",
+  year = "1963",
+  note = "",
+  issn = "0031-8914",
+  doi = "http://dx.doi.org/10.1016/S0031-8914(63)80231-1",
+  url = "http://www.sciencedirect.com/science/article/pii/S0031891463802311",
+  author = "A. Van Itterbeek and O. Verbeke and K. Staes"
+}
+
+@article{Michels1949627,
+  title = "Isotherms of argon between 0°c and 150°c and pressures up to 2900 atmospheres ",
+  journal = "Physica ",
+  volume = "15",
+  number = "7",
+  pages = "627 - 633",
+  year = "1949",
+  note = "",
+  issn = "0031-8914",
+  doi = "http://dx.doi.org/10.1016/0031-8914(49)90119-6",
+  url = "http://www.sciencedirect.com/science/article/pii/0031891449901196",
+  author = "A. Michels and Hub Wijker and Hk Wijker"
+}
+
+@article{PhysRev.136.A405,
+  title = {Correlations in the Motion of Atoms in Liquid Argon},
+  author = {Rahman, A.},
+  journal = {Phys. Rev.},
+  volume = {136},
+  issue = {2A},
+  pages = {A405--A411},
+  numpages = {0},
+  year = {1964},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.136.A405},
+  url = {http://link.aps.org/doi/10.1103/PhysRev.136.A405}
+}
+
+@book{blockavg,
+    abstract = {{In this Second Edition an extensive series of detailed case studies
+introduces the reader to solutions to a variety of problems connected
+with the way molecular interactions and motions determine the properties
+of matter. The methods are widely used in studying phenomena involving
+everything from the simplest of liquids to highly complex molecules such
+as proteins. In addition to a significant amount of new material, this
+edition features completely rewritten software. First Edition Hb (1996):
+0-521-44561-2  First Edition Pb (1996): 0-521-59942-3}},
+    author = {Rapaport, D. C.},
+    booktitle = {The Art of Molecular Dynamics Simulation, by D.\~{}C.\~{}Rapaport, pp.\~{}564.\~{}ISBN 0521825687.\~{}Cambridge, UK: Cambridge University Press, April 2004.},
+    citeulike-article-id = {3187662},
+    citeulike-linkout-0 = {http://adsabs.harvard.edu/cgi-bin/nph-bib\_query?bibcode=2004amds.book.....R},
+    keywords = {md-book-rapaport},
+    posted-at = {2011-01-06 09:36:46},
+    priority = {2},
+    publisher = {Cambridge University Press.},
+    title = {{The Art of Molecular Dynamics Simulation}},
+    url = {http://adsabs.harvard.edu/cgi-bin/nph-bib\_query?bibcode=2004amds.book.....R},
+    year = {2004}
+}
+
+@book{thijssen2007computational,
+  title={Computational Physics},
+  author={Thijssen, J.M.},
+  isbn={9780521833462},
+  lccn={2006038173},
+  url={http://books.google.de/books?id=ThtNausKMn4C},
+  year={2007},
+  publisher={Cambridge University Press}
+}
+
+@book{virial,
+    abstract = {{The third edition of <B>Theory of Simple Liquids</B> is an updated, advanced, but self-contained introduction to the principles of liquid-state theory.  It presents the modern, molecular theory of the structural, thermodynamic interfacial and dynamical properties of the liquid phase of materials constituted of atoms, small molecules or ions.  This book leans on concepts and methods form classical Statistical Mechanics in which theoretical predictions are systematically compared with experimental data and results from numerical simulations.  <br><br>The overall layout of the book is similar to that of the previous two editions however, there are considerable changes in emphasis and several key additions including:<br><br>up-to-date presentation of modern theories of liquid-vapour coexistence and criticality<br>areas of considerable present and future interest such as super-cooled liquids and the glass transition<br>the area of liquid metals, which has grown into a mature subject area, now presented as part of the chapter ionic liquids<br><br>Provides cutting-edge research in the principles of liquid-state theory<br>Includes frequent comparisons of theoretical predictions with experimental and simulation data<br>Suitable for researchers and post-graduates in the field of condensed matter science (Physics, Chemistry, Material Science), biophysics as well as those in the oil industry}},
+    author = {Hansen, Jean-Pierre and McDonald, I. R.},
+    citeulike-article-id = {1820921},
+    citeulike-linkout-0 = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20\&amp;path=ASIN/0123705355},
+    citeulike-linkout-1 = {http://www.amazon.de/exec/obidos/redirect?tag=citeulike01-21\&amp;path=ASIN/0123705355},
+    citeulike-linkout-2 = {http://www.amazon.fr/exec/obidos/redirect?tag=citeulike06-21\&amp;path=ASIN/0123705355},
+    citeulike-linkout-3 = {http://www.amazon.jp/exec/obidos/ASIN/0123705355},
+    citeulike-linkout-4 = {http://www.amazon.co.uk/exec/obidos/ASIN/0123705355/citeulike00-21},
+    citeulike-linkout-5 = {http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0123705355},
+    citeulike-linkout-6 = {http://www.worldcat.org/isbn/0123705355},
+    citeulike-linkout-7 = {http://books.google.com/books?vid=ISBN0123705355},
+    citeulike-linkout-8 = {http://www.amazon.com/gp/search?keywords=0123705355\&index=books\&linkCode=qs},
+    citeulike-linkout-9 = {http://www.librarything.com/isbn/0123705355},
+    day = {03},
+    edition = {3},
+    howpublished = {Hardcover},
+    isbn = {0123705355},
+    keywords = {recons},
+    month = apr,
+    posted-at = {2008-08-23 20:51:25},
+    priority = {2},
+    publisher = {Academic Press},
+    title = {{Theory of Simple Liquids, Third Edition}},
+    url = {http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0123705355},
+    year = {2006}
+}
+
+Scopus
+EXPORT DATE: 28 February 2014
+
+@ARTICLE{Lebowitz1967250,
+author={Lebowitz, J.L. and Percus, J.K. and Verlet, L.},
+title={Ensemble dependence of fluctuations with application to machine computations},
+journal={Physical Review},
+year={1967},
+volume={153},
+number={1},
+pages={250-254},
+note={cited By (since 1996)144},
+url={http://www.scopus.com/inward/record.url?eid=2-s2.0-36049053866&partnerID=40&md5=8fd54f25bcb453f520b7e5971766c24a},
+document_type={Article},
+source={Scopus},
+}
