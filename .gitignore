@@ -6,10 +6,18 @@ a# Compiled source #
 *.exe
 *.o
 *.so
+*.mod
 
 # Backup #
 *~
- *.mod
+*-checkpoint.ipynb
+
+# FORTRAN data files #
+*.dat
+
+# LaTex #
+*.aux
+
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source
